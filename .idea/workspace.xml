@@ -4,9 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950444ad-67c3-4aed-b401-5931dd4efc0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+    <list default="true" id="950444ad-67c3-4aed-b401-5931dd4efc0d" name="Changes" comment="git">
+      <change afterPath="$PROJECT_DIR$/images/fulls/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fulls/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbs/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +67,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1684143486" />
-                  </RecentBranch>
-                  <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1684143485" />
+                    <option name="lastUsedInstant" value="1684148108" />
                   </RecentBranch>
                 </list>
               </option>
@@ -45,12 +83,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Pp9eml6FJCnqmCcL4LsH9OIVTE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -72,8 +114,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684143253129</updated>
-      <workItem from="1684143254315" duration="3733000" />
+      <workItem from="1684143254315" duration="5910000" />
     </task>
+    <task id="LOCAL-00001" summary="git">
+      <created>1684148140239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684148140239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +139,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
   </component>
 </project>
